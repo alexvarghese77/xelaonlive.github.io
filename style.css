@@ -54,7 +54,7 @@ ul{
 li {display: inline-block;}
 h1, h2, h3, h4, h5, h6, p {margin: 0 0 10px;}
 body {
-    font-size: 14px;
+    font-size: 13px;
     line-height: 1.7;
     font-family: 'Montserrat', sans-serif;
 }
@@ -1223,7 +1223,7 @@ input[type="text"], input[type="email"], input[type="tel"], input[type="submit"]
     padding: 10px 38px;
     display: inline-block;
     margin: 25px 0 0;
-    transition: .3s: 
+    transition: .3s;
 }
 .contact-form input[type="submit"]:hover {
     background: #7C4BAB;
